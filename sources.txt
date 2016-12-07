@@ -11,4 +11,3 @@ sepak4.jpg = http://www.body-op.com/blog/wp-content/uploads/2014/09/Norshahruddi
 photos boutique = http://www.takrawfrance.com/boutique.htm
 
 sepak_awesome.mp4 = https://www.youtube.com/watch?v=9wt0OIdYnOA
-
