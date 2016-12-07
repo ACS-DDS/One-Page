@@ -1,27 +1,23 @@
 /* TEAM */
 	Creator: PERROT Corentin
-	Contact: perrot.corentin@laposte.net
-	Twitter: 
+	Contact: perrot.corentin[at]laposte.net
+	Twitter: @KasaiDot
 	Location: Dijon, France
 
 	Creator: BOUTHIBA Nabil
-	Contact: bouthiba.nabil@free.fr
-	Twitter: 
+	Contact: bouthiba.nabil[at]free.fr
 	Location: Dijon, France
 
-	Creator: <...>
-	Contact: <...>@<...>.<..>
-	Twitter: 
+	Creator: LKHALDOUNI Farid
+	Contact: farid.lkhaldouni[at]gmail.com
 	Location: Dijon, France
 
 /* THANKS */
-	Beta Tester: 
-	Twitter: 
+	Beta Tester: PRULIÈRE Jean
 	Location: Dijon, France
 
 /* SITE */
-	Last update: 2016/12/02
-	Language: French
-	Doctype: HTML5
+	Last update: 2016/12/07
 	Standards: HTML5, CSS3, JavaScript
-	Software: Sublime Text 3
+	Components: jQuery, BootStrap
+	Software: Sublime Text 3, GitHub for Windows

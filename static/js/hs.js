@@ -101,12 +101,12 @@
     var t = 30;
     var n = 350;
     var r = 350;
-    var i = "https://s3.amazonaws.com/moovweb-marketing/playground/harlem-shake.mp3";
+    var i = "static/sounds/hs.mp3";
     var s = "mw-harlem_shake_me";
     var o = "im_first";
-    var u = ["im_drunk", "im_baked", "im_trippin", "im_blown"];
+    var u = ["im_drunk","im_baked","im_trippin","im_blown"];
     var a = "mw-strobe_light";
-    var f = "https://s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css";
+    var f = "static/css/hs.css";
     var l = "mw_added_css";
     var b = g();
     var w = y();
